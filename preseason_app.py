@@ -91,27 +91,53 @@ def get_player_plays(plays_df, pp_df, player_name, weeks_selected=None):
     return merged
 
 def coplayer_counts_for_weeks(pp_df, plays_df, player_name, weeks_selected=None):
-    # recompute same-team co-player counts for selected weeks only
+    """
+    Recompute same-team co-player counts for the selected weeks only,
+    and attach each teammate's most common position in those weeks.
+    """
+    # Limit to selected weeks + PASS/RUSH
     plays_scoped = filter_plays_by_weeks(plays_df, weeks_selected) if weeks_selected else plays_df
-    plays_scoped = pr_filter(plays_scoped)[["gameId","nflPlayId","week"]]
+    plays_scoped = pr_filter(plays_scoped)[["gameId", "nflPlayId", "week"]]
 
-    pp_scoped = pp_df.merge(plays_scoped, on=["gameId","nflPlayId"], how="inner")
+    # All players on in-scope plays
+    pp_scoped = pp_df.merge(plays_scoped, on=["gameId", "nflPlayId"], how="inner")
 
-    me_rows = pp_scoped[pp_scoped["playerName"].str.lower() == player_name.lower()][["gameId","nflPlayId","teamId"]]
-    me_rows = me_rows.rename(columns={"teamId":"playerTeamId"})
+    # Player's team per play
+    me_rows = pp_scoped[
+        pp_scoped["playerName"].str.lower() == player_name.lower()
+    ][["gameId", "nflPlayId", "teamId"]].rename(columns={"teamId": "playerTeamId"})
 
-    ann = pp_scoped.merge(me_rows, on=["gameId","nflPlayId"], how="inner")
+    # Annotate rows with player's team
+    ann = pp_scoped.merge(me_rows, on=["gameId", "nflPlayId"], how="inner")
 
+    # Same-team teammates (exclude the player)
     same_team = ann[
         (ann["teamId"] == ann["playerTeamId"]) &
         (ann["playerName"].str.lower() != player_name.lower())
     ]
 
-    out = (same_team.groupby(["playerName","teamId"], as_index=False)
+    # Counts by teammate
+    out = (same_team.groupby(["playerName", "teamId"], as_index=False)
            .size()
-           .rename(columns={"playerName":"teammate","size":"count"}))
-    out = out.sort_values(["count","teammate"], ascending=[False, True])
+           .rename(columns={"playerName": "teammate", "size": "count"}))
+
+    # Most common position per teammate (in filtered weeks)
+    def most_common_pos(series):
+        s = series.dropna().astype(str)
+        if s.empty:
+            return "Unknown"
+        mode = s.mode()
+        return mode.iat[0] if not mode.empty else s.iloc[0]
+
+    pos_map = (pp_scoped.groupby("playerName")["position"]
+               .apply(most_common_pos))
+
+    out["position"] = out["teammate"].map(pos_map).fillna("Unknown")
+
+    # Sort
+    out = out.sort_values(["count", "teammate"], ascending=[False, True])
     return out
+
 
 def pass_rush_snaps_for_weeks(pp_df, plays_df, player_name, weeks_selected=None):
     plays_scoped = filter_plays_by_weeks(plays_df, weeks_selected) if weeks_selected else plays_df
@@ -222,16 +248,25 @@ cop = coplayer_counts_for_weeks(pp_df, plays_df, player_name, weeks_selected)
 if cop.empty:
     st.info("No co-player data for this player with current week filter.")
 else:
+    # ---- Position filter ----
+    pos_options = ["Unknown"] + sorted([p for p in cop["position"].dropna().unique() if p != "Unknown"])
+    selected_pos = st.multiselect("Filter positions", options=pos_options, default=pos_options)
+    if selected_pos:
+        cop = cop[cop["position"].isin(selected_pos)]
+
     cop_disp = cop.copy()
     cop_disp["Teammate"] = cop_disp["teammate"].astype(str)
     cop_disp["TeamId"]   = cop_disp["teamId"].astype("Int64")
-    cop_disp = cop_disp[["Teammate","TeamId","count"]].rename(columns={"count":"Plays together"})
+    cop_disp["Position"] = cop_disp["position"].astype(str)
+    cop_disp = cop_disp[["Teammate", "Position", "TeamId", "count"]].rename(columns={"count": "Plays together"})
+
     st.dataframe(cop_disp.head(top_n), use_container_width=True, height=400)
     downloadable_csv(cop_disp, "Download co-player counts (CSV)", f"{player_name}_coplayers_wk.csv")
 
     chart_src = cop_disp.rename(columns={"Teammate":"label","Plays together":"value"}).head(top_n)
     if not chart_src.empty:
         st.bar_chart(chart_src.set_index("label")["value"])
+
 
 st.divider()
 
