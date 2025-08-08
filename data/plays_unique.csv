@@ -1,0 +1,399 @@
+gameId,week,nflPlayId,nflPlayType,nflPlayDescription,nflPlayUrl
+2025001,0,1,GAME_START,GAME,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1
+2025001,0,41,KICK_OFF,"C.Dicker kicks 63 yards from LAC 35 to DET 2. G.Stuard to DET 28 for 26 yards (K.Williamson; C.Murphy). FUMBLES (K.Williamson), RECOVERED by LAC-K.Williamson at DET 28.
+The Replay Official reviewed the runner was not down by contact ruling, and the play was Upheld. The ruling on the field stands.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=41
+2025001,0,80,PASS,(14:51) T.Lance pass short right to W.Dissly pushed ob at DET 19 for 9 yards (T.Nowaske).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=80
+2025001,0,154,PENALTY,"(14:18) O.Hampton up the middle to DET 17 for 2 yards (T.Nowaske; P.O'Connor).
+PENALTY on DET-T.Nowaske, Defensive Offside, 6 yards, enforced at DET 19 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=154
+2025001,0,187,RUSH,(14:07) (Shotgun) O.Hampton right guard to DET 5 for 8 yards (L.Strickland; E.Hallett).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=187
+2025001,0,209,RUSH,"(13:28) T.Lance FUMBLES (Aborted) at DET 6, and recovers at DET 6. T.Lance to DET 6 for no gain (G.Stuard).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=209
+2025001,0,236,RUSH,(12:54) (Shotgun) O.Hampton left end to DET 5 for 1 yard (R.Ya-Sin).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=236
+2025001,0,258,PASS,"(12:15) T.Lance pass short right to W.Dissly for 5 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=258
+2025001,0,284,XP_KICK,"C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=284
+2025001,0,309,TIMEOUT,Timeout at 12:11.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=309
+2025001,0,299,KICK_OFF,C.Dicker kicks 66 yards from LAC 35 to DET -1. G.Stuard to DET 35 for 36 yards (T.Jefferson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=299
+2025001,0,329,PENALTY,"(12:04) C.Reynolds left end pushed ob at DET 37 for 2 yards (D.Leonard).
+PENALTY on DET-S.Zylstra, Offensive Holding, 10 yards, enforced at DET 35 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=329
+2025001,0,367,RUSH,(11:47) C.Reynolds right tackle to DET 27 for 2 yards (O.Ogbonnia; T.Morris-Brash).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=367
+2025001,0,389,PASS,(11:09) (Shotgun) K.Allen pass incomplete short right to D.Lovett (N.Reed).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=389
+2025001,0,412,RUSH,(11:03) (Shotgun) C.Reynolds left guard to DET 30 for 3 yards (T.Dye).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=412
+2025001,0,434,PUNT,"(10:14) J.Fox punts 44 yards to LAC 26, Center-H.Hatten. N.Miller-Hines to LAC 28 for 2 yards (H.Hatten; Z.Cunningham).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=434
+2025001,0,460,PASS,(10:02) T.Lance pass short right to J.Patterson to LAC 34 for 6 yards (T.Nowaske; E.Rakestraw).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=460
+2025001,0,485,PASS,(9:23) (Shotgun) T.Lance pass incomplete short left.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=485
+2025001,0,508,PASS,(9:19) (Shotgun) T.Lance pass deep right to K.Lambert-Smith pushed ob at DET 38 for 28 yards (L.Strickland).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=508
+2025001,0,538,RUSH,"(9:03) (No Huddle, Shotgun) J.Patterson right guard to DET 36 for 2 yards (A.Hassanein; G.Stuard).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=538
+2025001,0,560,RUSH,(8:27) (Shotgun) K.Vidal left guard to DET 34 for 2 yards (E.Hallett).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=560
+2025001,0,582,PASS,(7:46) (Shotgun) T.Lance pass incomplete short right.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=582
+2025001,0,605,FIELD_GOAL,"(7:35) C.Dicker 52 yard field goal is No Good, Hit Left Upright, Center-J.Harris, Holder-J.Scott.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=605
+2025001,0,642,TIMEOUT,Timeout at 07:30.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=642
+2025001,0,630,PENALTY,"(7:30) C.Reynolds right guard pushed ob at DET 40 for -2 yards (J.Taylor, K.Guidry).
+PENALTY on LAC-D.Hand, Defensive Offside, 5 yards, enforced at DET 42 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=630
+2025001,0,675,PASS,(7:11) (Shotgun) K.Allen pass short left to C.Reynolds to LAC 43 for 10 yards (K.Kennard).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=675
+2025001,0,700,RUSH,(6:36) C.Reynolds left guard to LAC 42 for 1 yard (T.Jefferson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=700
+2025001,0,722,PASS,(6:00) K.Allen pass incomplete short right.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=722
+2025001,0,756,INTERCEPTION,(5:55) (Shotgun) K.Allen pass short right intended for T.Kennedy INTERCEPTED by N.Reed at LAC 34. N.Reed pushed ob at DET 6 for 60 yards (C.Reynolds).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=756
+2025001,0,788,RUSH,(5:44) (Shotgun) K.Vidal left end pushed ob at DET 2 for 4 yards (R.Ya-Sin).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=788
+2025001,0,815,RUSH,"(5:18) (No Huddle, Shotgun) K.Vidal right guard for 2 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=815
+2025001,0,838,XP_KICK,"C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=838
+2025001,0,863,TIMEOUT,Timeout at 05:13.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=863
+2025001,0,853,KICK_OFF,C.Dicker kicks 66 yards from LAC 35 to DET -1. J.Keeney-James to DET 23 for 24 yards (N.Reed).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=853
+2025001,0,883,PASS,(5:06) K.Allen pass short left to I.TeSlaa pushed ob at DET 47 for 24 yards (D.Leonard).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=883
+2025001,0,913,PASS,(4:30) K.Allen pass short right to I.TeSlaa pushed ob at LAC 31 for 22 yards (D.Leonard).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=913
+2025001,0,943,RUSH,(3:49) C.Reynolds right guard to LAC 33 for -2 yards (C.Murphy).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=943
+2025001,0,965,PASS,(3:08) (Shotgun) K.Allen pass short left to D.Lovett to LAC 23 for 10 yards (D.Leonard).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=965
+2025001,0,990,INTERCEPTION,(2:24) (Shotgun) K.Allen pass deep right intended for I.TeSlaa INTERCEPTED by T.Jefferson at LAC -4. Touchback.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=990
+2025001,0,1018,SACK,(2:17) T.Lance sacked at LAC 15 for -5 yards (G.Stuard).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1018
+2025001,0,1038,PASS,(1:34) (Shotgun) T.Lance pass short middle to O.Gadsden to LAC 22 for 7 yards (G.Stuard).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1038
+2025001,0,1063,PASS,(:56) (Shotgun) T.Lance pass short right to D.Davis to LAC 26 for 4 yards (E.Hallett).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1063
+2025001,0,1088,PUNT,"(:15) J.Scott punts 53 yards to DET 21, Center-J.Harris. D.Lovett to DET 40 for 19 yards (K.Vidal).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1088
+2025001,0,1114,END_QUARTER,END QUARTER 1,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1114
+2025001,0,1134,RUSH,(15:00) C.Reynolds right guard to 50 for 10 yards (K.Williamson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1134
+2025001,0,1156,RUSH,(14:16) C.Reynolds right guard to LAC 46 for 4 yards (T.Edwards; E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1156
+2025001,0,1178,PASS,(13:41) K.Allen pass short right to S.Zylstra to LAC 41 for 5 yards (E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1178
+2025001,0,1215,TIMEOUT,Timeout #1 by DET at 12:55.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1215
+2025001,0,1222,RUSH,(12:55) C.Reynolds left tackle to LAC 37 for 4 yards (J.Taylor).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1222
+2025001,0,1244,RUSH,(12:21) C.Reynolds up the middle to LAC 24 for 13 yards (R.Mickens).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1244
+2025001,0,1266,RUSH,(11:41) J.Small right tackle to LAC 23 for 1 yard (E.Johnson; N.Reed).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1266
+2025001,0,1288,PENALTY,"(11:04) PENALTY on DET-J.Jones, False Start, 5 yards, enforced at LAC 23 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1288
+2025001,0,1312,RUSH,(10:56) J.Small left tackle to LAC 25 for 3 yards (T.Morris-Brash; E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1312
+2025001,0,1334,PASS,(10:16) (Shotgun) K.Allen pass short middle to D.Lovett to LAC 17 for 8 yards (R.Mickens; J.Taylor).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1334
+2025001,0,1359,RUSH,(9:32) (Shotgun) K.Allen scrambles left end ran ob at LAC 14 for 3 yards (E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1359
+2025001,0,1386,RUSH,(8:50) J.Small left tackle to LAC 12 for 2 yards (S.Matlock).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1386
+2025001,0,1408,RUSH,(8:14) J.Small right end to LAC 9 for 3 yards (J.Colson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1408
+2025001,0,1430,PASS,(7:33) (Shotgun) K.Allen pass short left to D.Lovett to LAC 5 for 4 yards (K.Williamson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1430
+2025001,0,1455,PASS,(6:49) (Shotgun) K.Allen pass short right to D.Lovett to LAC 3 for 2 yards (J.Taylor).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1455
+2025001,0,1480,RUSH,(6:08) C.Reynolds left tackle to LAC 3 for no gain (C.Murphy).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1480
+2025001,0,1502,RUSH,"(5:36) C.Reynolds left tackle for 3 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1502
+2025001,0,1525,XP_KICK,"J.Bates extra point is GOOD, Center-H.Hatten, Holder-J.Fox.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1525
+2025001,0,1550,TIMEOUT,Timeout at 05:31.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1550
+2025001,0,1540,KICK_OFF,"J.Bates kicks 38 yards from DET 35 to LAC 27, short of landing zone.
+PENALTY on DET-J.Bates, Kickoff Short of Landing Zone, placed at LAC 40.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1540
+2025001,0,1576,RUSH,(5:31) H.Haskins right guard to LAC 42 for 2 yards (T.Nowaske; K.Cooper).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1576
+2025001,0,1598,RUSH,(4:55) (Shotgun) N.Miller-Hines left guard to DET 49 for 9 yards (N.Lynn).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1598
+2025001,0,1620,PASS,"(4:31) (No Huddle, Shotgun) T.Lance pass short middle to N.Miller-Hines to DET 45 for 4 yards (A.Pittman; E.Hallett).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1620
+2025001,0,1645,RUSH,(3:54) N.Miller-Hines right guard to DET 43 for 2 yards (E.Turner).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1645
+2025001,0,1667,PENALTY,"(3:17) (Shotgun) T.Lance pass incomplete short right to K.Lambert-Smith.
+PENALTY on DET-E.Rakestraw, Illegal Use of Hands, 5 yards, enforced at DET 43 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1667
+2025001,0,1701,PASS,(3:13) (Shotgun) T.Lance pass deep middle to T.Fisk to DET 19 for 19 yards (M.Norris).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1701
+2025001,0,1726,RUSH,"(2:32) N.Miller-Hines up the middle to DET 15 for 4 yards (M.Adams, E.Turner).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1726
+2025001,0,1760,TIMEOUT,Two-Minute Warning,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1760
+2025001,0,1748,PASS,(2:00) (Shotgun) T.Lance pass incomplete short left to T.Harris.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1748
+2025001,0,1778,PASS,"(1:56) (Shotgun) T.Lance pass short left to K.Lambert-Smith for 15 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1778
+2025001,0,1804,XP_KICK,"C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1804
+2025001,0,1832,TIMEOUT,Timeout at 01:51.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1832
+2025001,0,1819,KICK_OFF,C.Dicker kicks 62 yards from LAC 35 to DET 3. D.Lovett to DET 25 for 22 yards (N.Reed).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1819
+2025001,0,1849,PASS,(1:44) (Shotgun) K.Allen pass incomplete short right to D.Lovett.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1849
+2025001,0,1872,PASS,(1:40) (Shotgun) K.Allen pass short right to J.Small to DET 31 for 6 yards (J.Colson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1872
+2025001,0,1897,RUSH,"(1:18) (No Huddle, Shotgun) K.Allen scrambles up the middle to DET 33 for 2 yards (Nq.Jones).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1897
+2025001,0,1931,TIMEOUT,Timeout #1 by LAC at 01:13.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1931
+2025001,0,1919,PUNT,"(1:13) J.Fox punts 57 yards to LAC 10, Center-H.Hatten, fair catch by N.Miller-Hines.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1919
+2025001,0,1958,TIMEOUT,Timeout at 01:04.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1958
+2025001,0,1946,RUSH,(1:04) (Shotgun) K.Vidal left end to LAC 15 for 5 yards (A.Hassanein; N.Lynn).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1946
+2025001,0,1975,RUSH,(:33) (Shotgun) N.Miller-Hines up the middle to LAC 16 for 1 yard (A.Hassanein).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1975
+2025001,0,1997,END_QUARTER,END QUARTER 2,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=1997
+2025001,0,2017,KICK_OFF,J.Bates kicks 61 yards from DET 35 to LAC 4. N.Miller-Hines pushed ob at LAC 43 for 39 yards (J.Meeks).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2017
+2025001,0,2045,PENALTY,"(14:50) (Shotgun) J.Patterson left guard to DET 27 for 30 yards (A.Pittman).
+PENALTY on LAC, Illegal Shift, 5 yards, enforced at LAC 43 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2045
+2025001,0,2078,RUSH,(14:31) (Shotgun) T.Lance scrambles up the middle to LAC 43 for 5 yards (A.Pittman).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2078
+2025001,0,2100,PASS,(13:53) (Shotgun) T.Lance pass short right to K.Vidal to LAC 36 for -7 yards (A.Pittman).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2100
+2025001,0,2125,PASS,"(13:13) (Shotgun) T.Lance pass short middle to J.Patterson to LAC 48 for 12 yards (A.Pittman, E.Turner).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2125
+2025001,0,2150,PUNT,"(12:31) J.Scott punts 41 yards to DET 11, Center-J.Harris. J.Keeney-James MUFFS catch, RECOVERED by LAC-D.Fitzpatrick at DET 5.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2150
+2025001,0,2180,PASS,(12:19) T.Lance pass incomplete short right to D.Fitzpatrick.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2180
+2025001,0,2203,RUSH,(12:14) J.Patterson up the middle to DET 5 for no gain (K.Cooper).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2203
+2025001,0,2225,PASS,(11:33) (Shotgun) T.Lance pass incomplete short left to D.Fitzpatrick.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2225
+2025001,0,2248,FIELD_GOAL,"(11:29) C.Dicker 23 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2248
+2025001,0,2278,TIMEOUT,Timeout at 11:26.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2278
+2025001,0,2268,KICK_OFF,"C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback to the DET 35.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2268
+2025001,0,2292,RUSH,(11:26) H.Hooker scrambles right tackle to DET 38 for 3 yards (J.Colson; T.Morris-Brash).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2292
+2025001,0,2314,PENALTY,"(10:53) (Shotgun) J.Small right tackle to DET 40 for 2 yards (T.Morris-Brash).
+PENALTY on DET-M.Miller, Offensive Holding, 10 yards, enforced at DET 38 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2314
+2025001,0,2347,RUSH,(10:41) J.Small right tackle to DET 31 for 3 yards (J.Caldwell).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2347
+2025001,0,2369,PASS,(10:05) (Shotgun) H.Hooker pass incomplete deep middle to D.Lovett.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2369
+2025001,0,2392,PUNT,"(10:00) J.Fox punts 46 yards to LAC 23, Center-H.Hatten, downed by DET-D.Lovett.
+PENALTY on DET-D.Lovett, Illegal Touch Kick, 5 yards, enforced at LAC 23.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2392
+2025001,0,2435,TIMEOUT,Timeout at 09:49.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2435
+2025001,0,2423,RUSH,(9:49) (Shotgun) N.Miller-Hines right tackle to LAC 35 for 7 yards (I.Kennelly; E.Turner).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2423
+2025001,0,2452,RUSH,"(9:10) (Shotgun) N.Miller-Hines left tackle to LAC 37 for 2 yards (M.Agude, B.Martin).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2452
+2025001,0,2474,RUSH,(8:32) S.Matlock up the middle to LAC 39 for 2 yards (T.Nowaske).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2474
+2025001,0,2496,RUSH,(7:47) H.Haskins left guard to LAC 46 for 7 yards (I.Ukwu; I.Kennelly).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2496
+2025001,0,2518,PASS,(7:13) T.Lance pass short right to H.Haskins to DET 46 for 8 yards (D.Jackson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2518
+2025001,0,2543,RUSH,(6:35) H.Haskins left guard to DET 39 for 7 yards (T.Russell; D.Jackson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2543
+2025001,0,2565,RUSH,(5:58) K.Vidal right guard to DET 38 for 1 yard (E.Turner; I.Kennelly).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2565
+2025001,0,2587,RUSH,(5:21) (Shotgun) K.Vidal left end to DET 22 for 16 yards (M.Agude).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2587
+2025001,0,2609,PASS,(4:37) (Shotgun) T.Lance pass short middle to J.Johnson to DET 12 for 10 yards (E.Turner).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2609
+2025001,0,2634,RUSH,(3:55) (Shotgun) T.Lance scrambles right end ran ob at DET 9 for 3 yards (D.Jackson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2634
+2025001,0,2661,PASS,(3:14) T.Lance pass incomplete short left to J.Jackson.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2661
+2025001,0,2684,PASS,"(3:10) (Shotgun) T.Lance pass short right to D.Campbell for 9 yards, TOUCHDOWN.
+The Replay Official reviewed the pass completion ruling, and the play was REVERSED.
+(Shotgun) T.Lance pass incomplete short right to D.Campbell (T.Russell).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2684
+2025001,0,2745,FIELD_GOAL,"(3:03) C.Dicker 27 yard field goal is GOOD, Center-J.Harris, Holder-J.Scott.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2745
+2025001,0,2775,TIMEOUT,Timeout at 02:59.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2775
+2025001,0,2765,KICK_OFF,C.Dicker kicks 64 yards from LAC 35 to DET 1. J.Keeney-James to DET 21 for 20 yards (D.Fitzpatrick).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2765
+2025001,0,2795,RUSH,(2:53) J.Small right guard to DET 25 for 4 yards (M.Wax).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2795
+2025001,0,2817,PASS,(2:19) (Shotgun) H.Hooker pass short left to D.Lovett to DET 32 for 7 yards (M.Purchase).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2817
+2025001,0,2842,RUSH,(1:45) J.Small right guard to DET 38 for 6 yards (T.Bridges; J.Fuga).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2842
+2025001,0,2864,RUSH,(1:10) J.Small left guard to DET 44 for 6 yards (J.Colson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2864
+2025001,0,2886,RUSH,(:29) J.Small left guard to DET 46 for 2 yards (J.Caldwell). DET-K.Yeboah was injured during the play.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2886
+2025001,0,2911,END_QUARTER,END QUARTER 3,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2911
+2025001,0,2931,PASS,(15:00) (Shotgun) H.Hooker pass short left to J.Meeks to LAC 49 for 5 yards (M.Wax; T.Bridges).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2931
+2025001,0,2956,PASS,(14:24) (Shotgun) H.Hooker pass incomplete deep right to J.Keeney-James (E.Rogers).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2956
+2025001,0,2991,TIMEOUT,Timeout #1 by DET at 14:18.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2991
+2025001,0,2979,RUSH,(14:18) (Shotgun) H.Hooker scrambles right end to LAC 47 for 2 yards (C.Hinton; J.Oladokun).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=2979
+2025001,0,3025,TIMEOUT,Timeout at 14:11.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3025
+2025001,0,3013,PENALTY,"(14:11) J.Patterson right tackle to LAC 45 for -2 yards (I.Kennelly).
+PENALTY on LAC-J.Patterson, Face Mask, 15 yards, enforced at LAC 47 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3013
+2025001,0,3071,RUSH,(13:53) (Shotgun) N.Miller-Hines up the middle to LAC 34 for 2 yards (A.Hassanein).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3071
+2025001,0,3093,PASS,"(13:18) (Shotgun) D.Uiagalelei pass short left to D.Campbell to LAC 46 for 12 yards (N.Whiteside, E.Turner).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3093
+2025001,0,3118,PASS,(12:36) (Shotgun) D.Uiagalelei pass incomplete short left to D.Campbell.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3118
+2025001,0,3141,PUNT,"(12:31) J.Scott punts 54 yards to end zone, Center-J.Harris, Touchback. ** Injury Update: DET-K.Yeboah has returned to the game.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3141
+2025001,0,3171,TIMEOUT,Timeout at 12:22.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3171
+2025001,0,3159,RUSH,"(12:22) J.Small right tackle to DET 24 for 4 yards (E.Rogers; E.Johnson). FUMBLES (E.Rogers), recovered by DET-T.Colon at DET 28.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3159
+2025001,0,3212,RUSH,(11:46) (Shotgun) J.Saylors left guard to DET 30 for 2 yards (J.Caldwell).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3212
+2025001,0,3234,RUSH,(11:09) H.Hooker scrambles left end pushed ob at DET 34 for 4 yards (E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3234
+2025001,0,3261,RUSH,(10:34) (Shotgun) J.Small up the middle to DET 35 for 1 yard (K.Williamson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3261
+2025001,0,3283,SACK,(10:05) (Shotgun) H.Hooker sacked at DET 32 for -3 yards (T.Edwards).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3283
+2025001,0,3303,PUNT,"(9:20) J.Fox punts 40 yards to LAC 28, Center-H.Hatten, out of bounds.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3303
+2025001,0,3322,RUSH,(9:14) N.Miller-Hines right end pushed ob at LAC 35 for 7 yards (D.Jackson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3322
+2025001,0,3349,RUSH,"(8:34) H.Haskins right guard to LAC 46 for 11 yards (D.Jackson; I.Kennelly).
+Penalty on DET-T.Nowaske, Defensive Offside, declined.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3349
+2025001,0,3382,PASS,(8:05) D.Uiagalelei pass short right to B.Rice to DET 41 for 13 yards (T.Russell).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3382
+2025001,0,3407,RUSH,"(7:27) H.Haskins up the middle to DET 33 for 8 yards (D.Jackson, I.Kennelly).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3407
+2025001,0,3429,RUSH,(6:45) H.Haskins left tackle to DET 34 for -1 yards (A.Pittman).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3429
+2025001,0,3451,PENALTY,"(6:03) (Shotgun) D.Uiagalelei pass incomplete deep right to J.Johnson (D.Bootle).
+PENALTY on DET-D.Bootle, Defensive Pass Interference, 27 yards, enforced at DET 34 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3451
+2025001,0,3485,RUSH,(5:57) K.Barnhart reported in as eligible.  K.Vidal up the middle to DET 1 for 6 yards (I.Kennelly).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3485
+2025001,0,3509,RUSH,(5:13) K.Barnhart reported in as eligible.  J.Patterson up the middle to DET 1 for no gain (A.Pittman; T.Nowaske).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3509
+2025001,0,3533,RUSH,"(4:29) K.Barnhart reported in as eligible.  K.Vidal up the middle to DET 2 for -1 yards (T.Russell, N.Lynn).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3533
+2025001,0,3557,RUSH,"(3:46) (Shotgun) K.Vidal right end for 2 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3557
+2025001,0,3580,XP_KICK,"C.Dicker extra point is GOOD, Center-J.Harris, Holder-J.Scott.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3580
+2025001,0,3605,TIMEOUT,Timeout at 03:42.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3605
+2025001,0,3595,KICK_OFF,C.Dicker kicks 60 yards from LAC 35 to DET 5. J.Keeney-James to DET 34 for 29 yards (M.Purchase).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3595
+2025001,0,3625,RUSH,(3:36) J.Saylors right tackle to DET 38 for 4 yards (C.Hinton).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3625
+2025001,0,3647,SACK,(3:02) H.Hooker sacked at DET 36 for -2 yards (T.Morris-Brash).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3647
+2025001,0,3667,PASS,(2:22) (Shotgun) H.Hooker pass short middle to J.Saylors to DET 42 for 6 yards (R.Mickens).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3667
+2025001,0,3704,TIMEOUT,Two-Minute Warning,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3704
+2025001,0,3692,INTERCEPTION,(2:00) (Shotgun) H.Hooker pass deep middle intended for D.Lovett INTERCEPTED by M.Purchase at LAC 17. M.Purchase to DET 35 for 48 yards (H.Hooker).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3692
+2025001,0,3726,RUSH,(1:44) D.Uiagalelei kneels to DET 37 for -2 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3726
+2025001,0,3765,RUSH,(1:01) D.Uiagalelei kneels to DET 39 for -2 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3765
+2025001,0,3787,RUSH,(:27) D.Uiagalelei kneels to DET 40 for -1 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3787
+2025001,0,3809,END_GAME,END GAME,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5a3a2-3ca3-11f0-b670-ae1250fadad1&playId=3809
+2025002,1,1,GAME_START,GAME,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1
+2025002,1,39,KICK_OFF,S.Shrader kicks 52 yards from IND 35 to BAL 13. K.Mitchell to BAL 29 for 16 yards (J.Bachie; S.Olubi).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=39
+2025002,1,62,RUSH,(14:55) (Shotgun) K.Mitchell left guard to BAL 30 for 1 yard (K.Paye).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=62
+2025002,1,84,INTERCEPTION,"(14:16) (Shotgun) C.Rush pass deep right intended for D.Wade INTERCEPTED by A.Johnson at IND 47. A.Johnson pushed ob at IND 47 for no gain (D.Wade).
+Penalty on BAL-D.Wade, Offensive Pass Interference, declined.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=84
+2025002,1,122,PASS,(14:10) (Shotgun) A.Richardson pass short left to A.Mitchell to BAL 38 for 15 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=122
+2025002,1,152,PENALTY,"(13:37) (Shotgun) A.Richardson pass short left to T.Warren to BAL 31 for 7 yards (T.Simpson).
+PENALTY on IND-T.Bortolini, Ineligible Downfield Pass, 5 yards, enforced at BAL 38 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=152
+2025002,1,188,RUSH,(13:15) (Shotgun) T.Goodson right guard to BAL 41 for 2 yards (B.Urban).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=188
+2025002,1,210,PASS,(12:42) (Shotgun) A.Richardson pass short middle to T.Warren to BAL 35 for 6 yards (M.Starks).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=210
+2025002,1,235,PASS,(12:02) (Shotgun) A.Richardson pass incomplete deep left to A.Dulin (J.Armour-Davis).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=235
+2025002,1,263,FIELD_GOAL,"(11:56) S.Shrader 53 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=263
+2025002,1,293,TIMEOUT,Timeout at 11:51.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=293
+2025002,1,283,KICK_OFF,S.Shrader kicks 61 yards from IND 35 to BAL 4. K.Mitchell to BAL 29 for 25 yards (A.Adebawore; H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=283
+2025002,1,318,RUSH,(11:45) K.Mitchell left end to BAL 34 for 5 yards (J.Edwards).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=318
+2025002,1,340,RUSH,(11:12) K.Mitchell right guard to BAL 36 for 2 yards (H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=340
+2025002,1,362,RUSH,(10:37) (Shotgun) R.Ali left end to BAL 39 for 3 yards (A.Adebawore; C.McGrone).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=362
+2025002,1,384,PASS,(10:01) (Shotgun) C.Rush pass short left to T.Wallace pushed ob at BAL 48 for 9 yards (J.Edwards).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=384
+2025002,1,414,RUSH,(9:32) K.Mitchell right end to IND 29 for 23 yards (E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=414
+2025002,1,436,PASS,(8:53) C.Rush pass short right to C.Kolar to IND 22 for 7 yards (H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=436
+2025002,1,461,RUSH,"(8:19) K.Mitchell right tackle for 22 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=461
+2025002,1,484,XP_KICK,"T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=484
+2025002,1,509,TIMEOUT,Timeout at 08:10.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=509
+2025002,1,499,KICK_OFF,"T.Loop kicks 65 yards from BAL 35 to end zone, Touchback to the IND 35.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=499
+2025002,1,523,RUSH,(8:10) D.Giddens right tackle to IND 35 for no gain (B.Okoye).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=523
+2025002,1,545,SACK,(7:33) (Shotgun) A.Richardson sacked at IND 27 for -8 yards (D.Ojabo). IND-A.Richardson was injured during the play.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=545
+2025002,1,565,RUSH,(6:53) (Shotgun) D.Giddens right guard to IND 34 for 7 yards (M.Green; S.Kane).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=565
+2025002,1,587,PUNT,"(6:16) R.Sanchez punts 39 yards to BAL 27, Center-L.Rhodes. L.Wester pushed ob at BAL 44 for 17 yards (J.Edwards).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=587
+2025002,1,630,TIMEOUT,Timeout at 06:01.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=630
+2025002,1,618,PASS,(6:01) (Shotgun) C.Rush pass incomplete short left to R.Ali.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=618
+2025002,1,648,RUSH,(5:57) (Shotgun) R.Ali left guard to BAL 43 for -1 yards (J.Tuimoloau).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=648
+2025002,1,670,SACK,(5:21) (Shotgun) C.Rush sacked at BAL 35 for -8 yards (A.Adebawore).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=670
+2025002,1,690,PUNT,"(4:49) J.Stout punts 50 yards to IND 15, Center-N.Moore. A.Gould to IND 35 for 20 yards (B.Brade).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=690
+2025002,1,728,TIMEOUT,Timeout at 04:36.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=728
+2025002,1,716,PASS,(4:36) (Shotgun) D.Jones pass short left to T.Warren to IND 46 for 11 yards (T.Tampa; T.Buchanan).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=716
+2025002,1,748,PASS,(3:58) (Shotgun) D.Jones pass incomplete short right to A.Mitchell.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=748
+2025002,1,771,RUSH,(3:55) (Shotgun) D.Giddens right guard to IND 48 for 2 yards (J.Hummel).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=771
+2025002,1,793,SACK,(3:14) (Shotgun) D.Jones sacked at IND 39 for -9 yards (A.Isaac).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=793
+2025002,1,813,PUNT,"(2:36) R.Sanchez punts 48 yards to BAL 13, Center-L.Rhodes. L.Wester for 87 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=813
+2025002,1,840,XP_KICK,"T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=840
+2025002,1,855,KICK_OFF,T.Loop kicks 57 yards from BAL 35 to IND 8. D.Giddens to IND 29 for 21 yards (K.Martin).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=855
+2025002,1,878,PASS,(2:10) (Shotgun) D.Jones pass short middle to T.Warren to BAL 48 for 23 yards (B.Brade).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=878
+2025002,1,903,PASS,"(1:45) (No Huddle, Shotgun) D.Jones pass incomplete short right to A.Gould.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=903
+2025002,1,926,PASS,(1:41) (Shotgun) D.Jones pass short left to A.Dulin ran ob at BAL 40 for 8 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=926
+2025002,1,956,RUSH,"(1:22) (No Huddle, Shotgun) D.Giddens left tackle to BAL 37 for 3 yards (M.Green).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=956
+2025002,1,978,PASS,(:50) (Shotgun) D.Jones pass deep middle to A.Mitchell to BAL 15 for 22 yards (B.Kone).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=978
+2025002,1,1003,PASS,"(:25) (No Huddle, Shotgun) D.Jones pass incomplete short right to A.Gould.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1003
+2025002,1,1035,PASS,(:21) (Shotgun) D.Jones pass incomplete short left to A.Mitchell.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1035
+2025002,1,1058,PASS,(:17) (Shotgun) D.Jones pass incomplete short right to A.Dulin. BAL-B.Kone was injured during the play.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1058
+2025002,1,1096,TIMEOUT,Timeout at 00:12.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1096
+2025002,1,1084,FIELD_GOAL,"(:12) S.Shrader 33 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1084
+2025002,1,1111,KICK_OFF,S.Shrader kicks 63 yards from IND 35 to BAL 2. K.Mitchell pushed ob at BAL 25 for 23 yards (S.Womack).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1111
+2025002,1,1144,RUSH,(:01) K.Mitchell right end to BAL 34 for 9 yards (S.Womack; H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1144
+2025002,1,1166,END_QUARTER,END QUARTER 1,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1166
+2025002,1,1186,RUSH,(15:00) (Shotgun) K.Mitchell right end to BAL 38 for 4 yards (H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1186
+2025002,1,1213,PENALTY,"(14:20) D.Leary pass incomplete deep right to D.Wade.
+PENALTY on IND-S.Womack, Defensive Pass Interference, 17 yards, enforced at BAL 38 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1213
+2025002,1,1247,RUSH,(14:14) R.Ali left end to IND 38 for 7 yards (E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1247
+2025002,1,1269,RUSH,(13:36) K.Mitchell left tackle to IND 36 for 2 yards (C.McGrone).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1269
+2025002,1,1291,RUSH,(12:58) R.Ali up the middle to IND 36 for no gain (N.Gallimore; T.Smith).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1291
+2025002,1,1313,RUSH,(12:22) D.Leary up the middle to IND 34 for 2 yards (E.Johnson; J.Bachie).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1313
+2025002,1,1335,RUSH,(11:44) R.Ali left guard to IND 33 for 1 yard (I.Land; H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1335
+2025002,1,1357,PENALTY,"(11:06) (Shotgun) D.Leary pass incomplete deep left to D.Walker.
+PENALTY on IND-J.Edwards, Defensive Pass Interference, 22 yards, enforced at IND 33 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1357
+2025002,1,1391,RUSH,(11:01) K.Mitchell right end to IND 11 for no gain (J.Bachie).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1391
+2025002,1,1413,PASS,(10:21) (Shotgun) D.Leary pass incomplete short right to D.Walker.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1413
+2025002,1,1439,INTERCEPTION,(10:16) (Shotgun) D.Leary pass short middle intended for D.Wade INTERCEPTED by J.Bachie at IND 9. J.Bachie to IND 9 for no gain (D.Wade).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1439
+2025002,1,1478,TIMEOUT,Timeout at 10:09.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1478
+2025002,1,1466,PASS,(10:09) D.Jones pass short right to A.Ogletree to IND 16 for 7 yards (B.Brade).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1466
+2025002,1,1498,RUSH,(9:33) (Shotgun) T.Goodson left tackle to IND 18 for 2 yards (A.Peebles; T.Simpson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1498
+2025002,1,1520,RUSH,(9:02) (Shotgun) T.Goodson up the middle to IND 23 for 5 yards (T.Simpson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1520
+2025002,1,1542,PASS,(8:26) (Shotgun) D.Jones pass incomplete deep right to A.Mitchell (T.Tampa) [B.Okoye].,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1542
+2025002,1,1565,PASS,(8:19) (Shotgun) D.Jones pass incomplete short middle to D.Giddens.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1565
+2025002,1,1588,PASS,(8:15) (Shotgun) D.Jones pass incomplete short left to A.Mitchell (J.Armour-Davis).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1588
+2025002,1,1611,PUNT,"(8:09) R.Sanchez punts 55 yards to BAL 22, Center-L.Rhodes. L.Wester to BAL 31 for 9 yards (H.Wohler).
+PENALTY on BAL-K.Jackson, Offensive Holding, 10 yards, enforced at BAL 22.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1611
+2025002,1,1660,TIMEOUT,Timeout at 07:58.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1660
+2025002,1,1648,RUSH,(7:58) D.Johnson left tackle to BAL 14 for 2 yards (I.Land).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1648
+2025002,1,1677,RUSH,(7:22) (Shotgun) R.Ali up the middle to BAL 17 for 3 yards (H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1677
+2025002,1,1699,PENALTY,"(6:41) (Shotgun) PENALTY on BAL-D.Walker, False Start, 5 yards, enforced at BAL 17 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1699
+2025002,1,1723,PASS,(6:20) (Shotgun) D.Leary pass incomplete short right to D.Wade (A.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1723
+2025002,1,1746,PUNT,"(6:16) J.Stout punts 43 yards to IND 45, Center-N.Moore, out of bounds.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1746
+2025002,1,1765,RUSH,(6:08) (Shotgun) D.Giddens right end to IND 48 for 3 yards (C.Ravenell; A.Isaac).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1765
+2025002,1,1787,PASS,(5:29) (Shotgun) D.Jones pass deep left to A.Dulin to BAL 27 for 25 yards (B.Brade).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1787
+2025002,1,1812,PENALTY,"(4:36) (Shotgun) PENALTY on IND-M.Goncalves, False Start, 5 yards, enforced at BAL 27 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1812
+2025002,1,1836,PASS,(4:15) (Shotgun) D.Jones pass short left to W.Mallory ran ob at BAL 17 for 15 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1836
+2025002,1,1866,RUSH,(3:45) D.Giddens right tackle to BAL 15 for 2 yards (J.Jones).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1866
+2025002,1,1888,PASS,(3:06) (Shotgun) D.Jones pass short right to A.Gould pushed ob at BAL 11 for 4 yards (T.Tampa).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1888
+2025002,1,1918,PENALTY,"(2:29) (Shotgun) D.Jones pass short right to A.Dulin for 11 yards, TOUCHDOWN NULLIFIED by Penalty.
+PENALTY on IND-A.Ogletree, Offensive Pass Interference, 10 yards, enforced at BAL 11 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1918
+2025002,1,1955,PASS,(2:24) (Shotgun) D.Jones pass incomplete deep left to A.Dulin.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1955
+2025002,1,1978,FIELD_GOAL,"(2:18) S.Shrader 39 yard field goal is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1978
+2025002,1,1998,KICK_OFF,S.Shrader kicks 58 yards from IND 35 to BAL 7. R.Ali pushed ob at IND 24 for 69 yards (R.Thomas).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=1998
+2025002,1,2026,RUSH,(2:04) (Shotgun) D.Johnson left tackle to IND 22 for 2 yards (E.Johnson; S.Olubi).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2026
+2025002,1,2060,TIMEOUT,Two-Minute Warning,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2060
+2025002,1,2048,RUSH,(1:58) D.Johnson right tackle to IND 15 for 7 yards (H.Wohler).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2048
+2025002,1,2096,TIMEOUT,Timeout #1 by IND at 01:51.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2096
+2025002,1,2084,RUSH,(1:51) D.Johnson left tackle to IND 14 for 1 yard (N.Gallimore; S.Olubi).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2084
+2025002,1,2125,TIMEOUT,Timeout #2 by IND at 01:46.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2125
+2025002,1,2113,RUSH,"(1:46) R.Ali left tackle to IND 10 for 4 yards (A.Ajiake).
+PENALTY on BAL-D.Dalcourt, Offensive Holding, 10 yards, enforced at IND 11.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2113
+2025002,1,2153,RUSH,(1:41) (Shotgun) R.Ali right end to IND 2 for 19 yards (R.Thomas).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2153
+2025002,1,2187,TIMEOUT,Timeout #3 by IND at 01:32.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2187
+2025002,1,2175,RUSH,"(1:32) (Shotgun) R.Ali left end for 2 yards, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2175
+2025002,1,2205,XP_KICK,"T.Loop extra point is GOOD, Center-N.Moore, Holder-J.Stout.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2205
+2025002,1,2220,KICK_OFF,T.Loop kicks 65 yards from BAL 35 to IND 0. A.Gould pushed ob at IND 36 for 36 yards (T.Loop).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2220
+2025002,1,2248,RUSH,(1:17) (Shotgun) T.Goodson right end to IND 38 for 2 yards (D.Ojabo).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2248
+2025002,1,2270,PASS,"(:58) (No Huddle, Shotgun) D.Jones pass short middle to A.Dulin ran ob at BAL 41 for 21 yards (T.Tampa).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2270
+2025002,1,2300,PASS,(:51) (Shotgun) D.Jones pass incomplete deep right to W.Mallory (B.Brade).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2300
+2025002,1,2323,PASS,(:45) (Shotgun) D.Jones pass short middle to A.Gould to BAL 33 for 8 yards (J.Armour-Davis).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2323
+2025002,1,2348,PASS,"(:25) (No Huddle, Shotgun) D.Jones pass incomplete short right to A.Dulin.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2348
+2025002,1,2371,FIELD_GOAL,"(:20) S.Shrader 52 yard field goal is No Good, Hit Left Upright, Center-L.Rhodes, Holder-R.Sanchez.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2371
+2025002,1,2392,SACK,"(:15) (Shotgun) D.Leary sacked at BAL 34 for -8 yards (J.Tuimoloau). FUMBLES (J.Tuimoloau) [J.Tuimoloau], touched at BAL 40, recovered by BAL-B.Cleveland at BAL 37.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2392
+2025002,1,2422,END_QUARTER,END QUARTER 2,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2422
+2025002,1,2442,KICK_OFF,"T.Loop kicks 65 yards from BAL 35 to IND 0. K.Herbert to IND 34 for 34 yards (K.Martin).
+PENALTY on IND-S.DeShields, Offensive Holding, 10 yards, enforced at IND 31.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2442
+2025002,1,2476,RUSH,(14:51) (Shotgun) K.Herbert left end to IND 24 for 3 yards (C.Ravenell).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2476
+2025002,1,2498,PASS,(14:17) (Shotgun) R.Leonard pass incomplete short right to C.Owen (K.Martin).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2498
+2025002,1,2521,RUSH,(14:13) (Shotgun) R.Leonard scrambles right end to IND 32 for 8 yards (K.Martin; B.Brade).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2521
+2025002,1,2543,RUSH,"(13:45) (No Huddle, Shotgun) R.Leonard left tackle to IND 36 for 4 yards (J.Jones).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2543
+2025002,1,2565,PASS,(13:10) (Shotgun) R.Leonard pass short middle to J.Woods to 50 for 14 yards (B.Brade).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2565
+2025002,1,2590,RUSH,(12:30) (Shotgun) K.Herbert right end to BAL 49 for 1 yard (B.Okoye; J.Jones).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2590
+2025002,1,2612,PASS,(11:56) (Shotgun) R.Leonard pass incomplete short middle to L.Treadwell (W.Kwenkeu).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2612
+2025002,1,2635,PASS,(11:53) (Shotgun) R.Leonard pass incomplete short right to L.Treadwell (A.Peebles).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2635
+2025002,1,2658,PUNT,"(11:48) R.Sanchez punts 43 yards to BAL 6, Center-L.Rhodes, fair catch by A.Miller.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2658
+2025002,1,2690,TIMEOUT,Timeout at 11:41.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2690
+2025002,1,2678,PENALTY,"(11:41) PENALTY on BAL-Z.Mitchell-Paden, False Start, 3 yards, enforced at BAL 6 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2678
+2025002,1,2709,RUSH,(11:41) D.Johnson up the middle to BAL 5 for 2 yards (D.Little).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2709
+2025002,1,2731,PASS,(11:07) D.Leary pass incomplete short middle to A.Miller (J.Tuimoloau) [J.Tuimoloau].,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2731
+2025002,1,2754,PASS,(11:03) (Shotgun) D.Leary pass incomplete deep left to L.Wester.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2754
+2025002,1,2777,PUNT,"(10:58) J.Stout punts 63 yards to IND 32, Center-N.Moore. C.Owen to IND 46 for 14 yards (B.Brade).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2777
+2025002,1,2815,TIMEOUT,Timeout at 10:46.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2815
+2025002,1,2803,PASS,(10:46) (Shotgun) R.Leonard pass deep right to L.Treadwell to BAL 30 for 24 yards (W.Kwenkeu).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2803
+2025002,1,2852,TIMEOUT,Timeout #1 by BAL at 10:16.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2852
+2025002,1,2840,PENALTY,"(10:16) (Shotgun) PENALTY on IND-J.Woods, False Start, 5 yards, enforced at BAL 30 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2840
+2025002,1,2871,RUSH,"(10:16) (Shotgun) K.Herbert left guard to BAL 32 for 3 yards (K.Rucker, C.Martin).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2871
+2025002,1,2893,PASS,(9:43) (Shotgun) R.Leonard pass short middle to C.Owen to BAL 26 for 6 yards (J.Higgins).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2893
+2025002,1,2918,RUSH,(9:05) (Shotgun) R.Leonard scrambles left end pushed ob at BAL 5 for 21 yards (R.Lowery; T.Tampa).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2918
+2025002,1,2945,RUSH,(8:28) (Shotgun) K.Herbert up the middle to BAL 3 for 2 yards (K.Rucker; B.Okoye).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2945
+2025002,1,2967,RUSH,(7:51) (Shotgun) K.Herbert right tackle to BAL 1 for 2 yards (A.Peebles).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2967
+2025002,1,2989,RUSH,"(7:17) (Shotgun) K.Herbert left guard for 1 yard, TOUCHDOWN.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=2989
+2025002,1,3012,XP_KICK,"M.Trujillo extra point is GOOD, Center-L.Rhodes, Holder-R.Sanchez.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3012
+2025002,1,3037,TIMEOUT,Timeout at 07:13.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3037
+2025002,1,3027,KICK_OFF,M.Trujillo kicks 63 yards from IND 35 to BAL 2. D.Wade to BAL 25 for 23 yards (L.Treadwell).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3027
+2025002,1,3057,PASS,(7:06) D.Leary pass short left to L.Wester to BAL 36 for 11 yards (D.Shelley).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3057
+2025002,1,3082,PASS,(6:27) D.Leary pass incomplete deep left to K.Kirkwood.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3082
+2025002,1,3105,RUSH,(6:24) (Shotgun) D.Johnson left guard to BAL 38 for 2 yards (D.Shelley).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3105
+2025002,1,3127,PASS,(5:40) (Shotgun) D.Leary pass deep right to L.Wester ran ob at IND 32 for 30 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3127
+2025002,1,3152,RUSH,(5:17) D.Johnson right guard to IND 28 for 4 yards (A.Adebawore).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3152
+2025002,1,3174,PASS,(4:37) (Shotgun) D.Leary pass incomplete deep right to D.Walker.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3174
+2025002,1,3197,PASS,(4:33) (Shotgun) D.Leary pass incomplete short left to A.Miller.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3197
+2025002,1,3220,FIELD_GOAL,"(4:28) T.Loop 46 yard field goal is No Good, Wide Left, Center-N.Moore, Holder-J.Stout.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3220
+2025002,1,3246,RUSH,(4:23) U.Bentley left end to IND 42 for 5 yards (A.Peebles; A.Isaac).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3246
+2025002,1,3268,RUSH,(3:48) (Shotgun) R.Leonard scrambles up the middle to IND 43 for 1 yard (C.Ravenell; A.Isaac).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3268
+2025002,1,3290,RUSH,(3:09) (Shotgun) U.Bentley up the middle to IND 45 for 2 yards (C.Martin).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3290
+2025002,1,3312,PUNT,"(2:24) R.Sanchez punts 46 yards to BAL 9, Center-L.Rhodes, fair catch by A.Miller.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3312
+2025002,1,3344,TIMEOUT,Timeout at 02:16.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3344
+2025002,1,3332,RUSH,"(2:16) D.Johnson left guard to BAL 12 for 3 yards (S.Olubi, A.Ajiake).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3332
+2025002,1,3361,PASS,(1:39) (Shotgun) D.Leary pass short left to D.Johnson to BAL 14 for 2 yards (C.Lammons).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3361
+2025002,1,3386,RUSH,(:57) (Shotgun) D.Leary scrambles right tackle to BAL 20 for 6 yards (A.Ajiake).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3386
+2025002,1,3408,RUSH,(:16) D.Johnson up the middle to BAL 24 for 4 yards (D.Shelley).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3408
+2025002,1,3435,END_QUARTER,END QUARTER 3,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3435
+2025002,1,3455,RUSH,(15:00) (Shotgun) D.Johnson up the middle to BAL 29 for 5 yards (A.Johnson; D.Little).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3455
+2025002,1,3477,RUSH,(14:28) (Shotgun) D.Johnson left guard to BAL 29 for no gain (I.Land; D.Shelley).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3477
+2025002,1,3499,PUNT,"(13:52) J.Stout punts 54 yards to IND 17, Center-N.Moore. C.Owen to IND 20 for 3 yards (M.Robinson; M.Hamm).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3499
+2025002,1,3525,PASS,(13:41) (Shotgun) R.Leonard pass short left to C.Owen to IND 24 for 4 yards (K.Martin; D.Igbinosun).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3525
+2025002,1,3550,RUSH,(13:08) (Shotgun) U.Bentley left tackle to IND 34 for 10 yards (J.Jones).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3550
+2025002,1,3572,RUSH,"(12:33) (Shotgun) U.Bentley left end pushed ob at BAL 32 for 34 yards (D.Igbinosun).
+PENALTY on IND-L.Treadwell, Offensive Holding, 10 yards, enforced at IND 39.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3572
+2025002,1,3615,PASS,(12:10) (Shotgun) R.Leonard pass incomplete short left to K.Herbert.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3615
+2025002,1,3647,PASS,"(12:06) (Shotgun) R.Leonard pass incomplete short middle [M.Hamm].
+PENALTY on IND-R.Leonard, Intentional Grounding, 23 yards, enforced at IND 29.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3647
+2025002,1,3681,RUSH,(11:59) (Shotgun) U.Bentley left guard to IND 11 for 5 yards (J.Higgins).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3681
+2025002,1,3703,PUNT,"(11:22) R.Sanchez punts 47 yards to BAL 42, Center-L.Rhodes. A.Miller pushed ob at BAL 47 for 5 yards (T.Goodson).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3703
+2025002,1,3746,TIMEOUT,Timeout at 11:11.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3746
+2025002,1,3734,PASS,(11:11) (Shotgun) D.Leary pass incomplete short middle to S.Washington (T.Smith).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3734
+2025002,1,3764,RUSH,(11:06) (Shotgun) D.Leary left end to IND 48 for 5 yards (D.Scott; S.Olubi).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3764
+2025002,1,3786,RUSH,(10:26) (Shotgun) D.Leary scrambles left end to IND 44 for 4 yards (D.Shelley).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3786
+2025002,1,3808,PENALTY,"(9:39) (No Huddle) PENALTY on BAL, Delay of Game, 5 yards, enforced at IND 44 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3808
+2025002,1,3832,PUNT,"(9:16) J.Stout punts 31 yards to IND 18, Center-N.Moore, fair catch by C.Owen.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3832
+2025002,1,3864,TIMEOUT,Timeout at 09:08.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3864
+2025002,1,3852,RUSH,(9:08) (Shotgun) U.Bentley right tackle to IND 23 for 5 yards (T.Tampa).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3852
+2025002,1,3881,PASS,"(8:37) (Shotgun) R.Leonard pass short middle to J.Woods to IND 32 for 9 yards (D.Igbinosun).
+Baltimore challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3881
+2025002,1,3906,PASS,(8:18) (Shotgun) R.Leonard pass short right to C.Owen to IND 35 for 3 yards (J.Higgins; R.Lowery).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3906
+2025002,1,3971,PASS,(7:45) (Shotgun) R.Leonard pass incomplete short right to T.Kahmann.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3971
+2025002,1,3994,INTERCEPTION,(7:38) (Shotgun) R.Leonard pass short right intended for B.Taylor INTERCEPTED by J.Higgins [C.Ravenell] at IND 41. J.Higgins to IND 39 for 2 yards (K.Herbert).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=3994
+2025002,1,4021,RUSH,(7:29) D.Johnson left guard to IND 28 for 11 yards (T.Washington; T.Herndon).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4021
+2025002,1,4048,RUSH,(6:48) D.Johnson left guard to IND 27 for 1 yard (D.Shelley; D.Nchami).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4048
+2025002,1,4070,RUSH,(6:09) D.Johnson left guard to IND 25 for 2 yards (D.Little).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4070
+2025002,1,4092,PENALTY,"(5:26) (Shotgun) PENALTY on BAL-G.Christian-Lichtenhan, False Start, 5 yards, enforced at IND 25 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4092
+2025002,1,4116,PENALTY,"(5:26) (Shotgun) PENALTY on BAL-G.Dellinger, False Start, 5 yards, enforced at IND 30 - No Play.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4116
+2025002,1,4140,RUSH,(5:26) D.Johnson right end to IND 35 for no gain (D.Little; E.Johnson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4140
+2025002,1,4162,FIELD_GOAL,"(4:45) T.Loop 52 yard field goal is GOOD, Center-N.Moore, Holder-J.Stout.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4162
+2025002,1,4182,KICK_OFF,"T.Loop kicks 60 yards from BAL 35 to IND 5. K.Herbert to IND 25 for 20 yards (M.Robinson, C.Martin).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4182
+2025002,1,4205,PASS,(4:36) (Shotgun) R.Leonard pass short right to A.Ajou to IND 33 for 8 yards (T.Tampa; C.Martin).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4205
+2025002,1,4230,RUSH,"(4:12) (No Huddle, Shotgun) U.Bentley left tackle to IND 36 for 3 yards (A.Odeleye).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4230
+2025002,1,4252,PASS,(3:40) (Shotgun) R.Leonard pass incomplete deep right to A.Ajou (T.Tampa).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4252
+2025002,1,4275,PASS,(3:35) (Shotgun) R.Leonard pass incomplete short left to U.Bentley (M.Robinson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4275
+2025002,1,4298,PASS,(3:32) (Shotgun) R.Leonard pass short left to A.Ajou to IND 42 for 6 yards (R.Lowery).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4298
+2025002,1,4323,PASS,"(2:59) (Shotgun) R.Leonard pass incomplete short left to L.Parker.
+The Replay Official reviewed the incomplete pass ruling, and the play was REVERSED.
+(Shotgun) R.Leonard pass short left to L.Parker to IND 46 for 4 yards.",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4323
+2025002,1,4358,PASS,(2:45) (Shotgun) R.Leonard pass short right to S.McKeon to BAL 49 for 5 yards (K.Jackson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4358
+2025002,1,4424,PASS,(2:17) (Shotgun) R.Leonard pass short middle to A.Ajou to BAL 45 for 4 yards (M.Robinson).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4424
+2025002,1,4461,TIMEOUT,Two-Minute Warning,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4461
+2025002,1,4449,RUSH,(2:00) (Shotgun) K.Herbert left end pushed ob at BAL 28 for 17 yards (R.Lowery).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4449
+2025002,1,4483,PASS,(1:53) (Shotgun) R.Leonard pass short middle to C.Owen to BAL 23 for 5 yards (K.Martin) [K.Rucker].,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4483
+2025002,1,4508,PASS,"(1:33) (No Huddle, Shotgun) R.Leonard pass incomplete short left to A.Ajou (C.Martin).",https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4508
+2025002,1,4531,PASS,(1:29) (Shotgun) R.Leonard pass incomplete short middle to J.Woods [K.Rucker].,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4531
+2025002,1,4554,PASS,(1:25) (Shotgun) R.Leonard pass incomplete short middle to C.Owen (J.Higgins).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4554
+2025002,1,4577,RUSH,(1:21) D.Johnson left tackle to BAL 30 for 7 yards (T.Smith).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4577
+2025002,1,4611,TIMEOUT,Timeout #1 by IND at 01:16.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4611
+2025002,1,4599,RUSH,(1:16) D.Johnson right tackle to BAL 32 for 2 yards (S.DeShields).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4599
+2025002,1,4640,TIMEOUT,Timeout #2 by IND at 01:12.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4640
+2025002,1,4628,RUSH,(1:12) D.Johnson left tackle to BAL 34 for 2 yards (D.Scott).,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4628
+2025002,1,4669,TIMEOUT,Timeout #3 by IND at 01:06.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4669
+2025002,1,4657,RUSH,(1:06) D.Leary kneels to BAL 33 for -1 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4657
+2025002,1,4686,RUSH,(:34) D.Leary kneels to BAL 32 for -1 yards.,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4686
+2025002,1,4708,END_GAME,END GAME,https://pro.nfl.com/api/plays/summaryPlay?gameId=7af5b339-3ca3-11f0-b670-ae1250fadad1&playId=4708
