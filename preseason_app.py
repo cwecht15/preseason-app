@@ -7,19 +7,40 @@ import streamlit as st
 st.set_page_config(page_title="Preseason Player Co-Players Explorer", layout="wide")
 DATA_DIR_DEFAULT = "data"  # change if you keep CSVs elsewhere
 
+# ---------- Cache-busting helper ----------
+def file_fingerprint(path: str) -> str:
+    """Return a string that changes when the file changes (mtime/size)."""
+    try:
+        stat = os.stat(path)
+        return f"{stat.st_mtime_ns}-{stat.st_size}"
+    except FileNotFoundError:
+        return "missing"
+
 # ---------- Caching loaders ----------
 @st.cache_data(show_spinner=False)
-def load_csv(path):
+def load_csv(path, fingerprint=None):
+    # 'fingerprint' is unused inside; it's only to bust the cache when the file changes
     return pd.read_csv(path)
 
 @st.cache_data(show_spinner=True)
 def load_all(data_dir):
-    plays = load_csv(os.path.join(data_dir, "plays_unique.csv"))
-    pp    = load_csv(os.path.join(data_dir, "play_players.csv"))
-    idx   = load_csv(os.path.join(data_dir, "players_index.csv"))  # coplayer_counts.csv no longer required
+    plays_path = os.path.join(data_dir, "plays_unique.csv")
+    pp_path    = os.path.join(data_dir, "play_players.csv")
+    idx_path   = os.path.join(data_dir, "players_index.csv")  # optional, used for metrics
+
+    plays = load_csv(plays_path, fingerprint=file_fingerprint(plays_path))
+    pp    = load_csv(pp_path,    fingerprint=file_fingerprint(pp_path))
+    idx   = load_csv(idx_path,   fingerprint=file_fingerprint(idx_path))
+
+    # normalize column names just in case
     for df in (plays, pp, idx):
         df.columns = [c.strip() for c in df.columns]
     return plays, pp, idx
+
+# Manual refresh
+if st.sidebar.button("🔄 Refresh data (clear cache)"):
+    st.cache_data.clear()
+    st.rerun()
 
 # ---------- Helpers ----------
 def normalize(s):
@@ -29,9 +50,11 @@ def get_player_suggestions(query, names, n=12):
     query = normalize(query)
     if not query:
         return []
+    # prefix matches first
     prefix = [nm for nm in names if nm.lower().startswith(query.lower())]
     if len(prefix) >= n:
         return sorted(prefix)[:n]
+    # fuzzy fallback
     fuzzy = difflib.get_close_matches(query, names, n=n, cutoff=0.6)
     seen, out = set(), []
     for lst in (prefix, fuzzy):
@@ -61,7 +84,6 @@ def get_player_plays(plays_df, pp_df, player_name, weeks_selected=None):
     # limit to weeks + PASS/RUSH
     plays_scoped = filter_plays_by_weeks(plays_df, weeks_selected) if weeks_selected else plays_df
     plays_scoped = pr_filter(plays_scoped)
-
     # plays the player appears in (any side), join to play metadata
     target = pp_df[pp_df["playerName"].str.lower() == player_name.lower()][["gameId","nflPlayId"]].drop_duplicates()
     merged = target.merge(plays_scoped, on=["gameId","nflPlayId"], how="inner")
@@ -156,7 +178,9 @@ else:
 st.title("Preseason Player Co-Players Explorer")
 
 # Player input + suggestions
-all_names = sorted(idx_df["playerName"].dropna().unique().tolist())
+# Use ALL players from play_players.csv so newly-added players show up immediately
+all_names = sorted(pp_df["playerName"].dropna().unique().tolist())
+
 col_q, col_s = st.columns([2, 1])
 with col_q:
     query = st.text_input("Search player", placeholder="e.g., Isaac TeSlaa")
